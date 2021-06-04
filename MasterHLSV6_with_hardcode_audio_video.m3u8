@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_audio",NAME="OriginalAudio",AUTOSELECT=YES,DEFAULT=YES,URI="https://raw.githubusercontent.com/SUNYTYAGI/files/master/AudioMediaPlaylistV6.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1361616,RESOLUTION=852x480,CODECS="avc1.4d001f,mp4a.40.2",AUDIO="group_audio"
+https://raw.githubusercontent.com/SUNYTYAGI/files/master/VideoMediaPlaylistV6_moved_key_below.m3u8
